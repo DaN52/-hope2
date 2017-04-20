@@ -68,6 +68,8 @@ g += 5
 
 print (g)
 
-print (type(g))
+print(type(g))
+
+print(type(u+g))
 
 
